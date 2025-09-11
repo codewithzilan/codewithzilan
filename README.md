@@ -31,7 +31,7 @@ I am passionate about **delivering robust software solutions** that meet busines
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats 
 ![Zilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=codewithzilan&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithzilan&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codewithzilan&theme=radical)  
