@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohammad Zilan  
 
-### 🌟 MERN Stack Web Developer | Frontend & Backend Enthusiast  
+### 🌟 Full Stack Web Developer(MERN) | Frontend & Backend Enthusiast  
 
 I build **modern, responsive, and user-friendly web applications** 💻✨  
 I am passionate about **delivering robust software solutions** that meet business goals and provide exceptional user experiences.
