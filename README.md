@@ -22,7 +22,9 @@ I am passionate about **delivering robust software solutions** that meet busines
 ![Skeleton](https://img.shields.io/badge/Skeleton-000000?style=for-the-badge)
 ![Semantic UI](https://img.shields.io/badge/Semantic_UI-35BDB2?style=for-the-badge&logo=semantic-ui-react)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
